@@ -1,0 +1,33 @@
+_repo: Thunder-in-the-void_68253
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kuttner, Henry
+    aliases:
+    - Hastings, Hudson
+    - Hammond, Keith
+    - Smith, Woodrow Wilson
+    - Liddell, C. H.
+    birthdate: 1915
+    deathdate: 1958
+    gutenberg_agent_id: '35061'
+    url: http://www.gutenberg.org/2009/agents/35061
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Kuttner
+description: ''
+gutenberg_issued: '2022-06-06'
+identifiers:
+  gutenberg: '68253'
+language: en
+pgterms:marc905: 20220603080215kuttner
+pgterms:marc906: '1942'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan, Alex White & the online Distributed Proofreaders
+  Canada team at https://www.pgdpcanada.net.
+publication_note: United States :Fictioneers, Inc.,1942.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Thunder in the void
+url: http://www.gutenberg.org/ebooks/68253
